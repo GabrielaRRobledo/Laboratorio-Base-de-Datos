@@ -74,7 +74,7 @@ ALTER DATABASE [Balances2017] SET TARGET_RECOVERY_TIME = 0 SECONDS
 GO
 USE [Balances2017]
 GO
-****** Object:  Table [dbo].[BalanceEnero]    Script Date: 04/09/2017 09:47:44 p.m. ******/
+/****** Object:  Table [dbo].[BalanceEnero]    Script Date: 04/09/2017 09:47:44 p.m. ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -87,7 +87,7 @@ CREATE TABLE [dbo].[BalanceEnero](
 ) ON [PRIMARY]
 
 GO
-****** Object:  Table [dbo].[BalanceFebrero]    Script Date: 04/09/2017 09:47:44 p.m. ******/
+/****** Object:  Table [dbo].[BalanceFebrero]    Script Date: 04/09/2017 09:47:44 p.m. ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
